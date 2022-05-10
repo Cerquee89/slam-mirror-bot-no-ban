@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sunlit-amulet-349812",
+  "private_key_id": "9d69aab2c065780c3c9865af37bd2871a68c8baf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqwkRTtMkL60QF\nfwO6wKzpbuRXQXsHIaomY+rUF+0rNDLtyua59a3pJ6FSX6JRZjWCZgVGtm48yKc3\nkXPMQ+ZcG6n+STseVenm4VnncRmeNro6Gp99+pz0hI8XTh6VlovsPOHkh8xqFVWg\nTYwaS0K0SPCpvnak66iN46owBqEKnZJD+11loNixYKpyAyEQIxf+RZRnfmXTH8nO\n1o1F7pzXWSPWeTJ71yxEs4q76u4L+jCezXgLOqfUeR4FXMHa4qtoqIJxJzZkAyk3\n4sFHbvbsDmXoUvdJpBV2b00mn8hSd1exCzELXXEwXNkjm2Gz7USze9Falc0Iuyjw\ni5SjqRulAgMBAAECggEABEmv3jY6R4KsiO12ki2dFJjZ7QL87DdBMYjtcE6lgEyQ\nQX5d1X+WKAunC7gmYvWLvxmBZRQsUnnAu9l61z9BPUDd6j+7102AURw0M2aYpmto\nuRAgFHwYODT37uA2+Q9NtiyVM4rhbCyFo5Uu68jGBQbr3CdR4rRJiD6WRccfgMey\nULqkiEPgQZOggFLRCzmTw4M1cJvwp36NVDYvQ3rStU4jYx7WVqmP/SC+L9HBCPlp\nuFLYjQkz1fgc9E0ZCql2AjKnJRY9kM4NIJ+RhK5aAtkcBET/iGYfSnwIEYFEYMu1\nEMD17qXv/zmPE99dJR4chS3iR2oEaW5c/oqWUaDmpQKBgQDSmqgO1tQExaC00IWQ\nNCxGynUdJ3Foa/G2ffzna6pppOOZHB2ngQ+cOdJrosQPgoQ2WDTdXAxSyt8R+D6/\nJ9J6VE3F67ABrNAgYmpcRIFTKMWafTkqdSdFg1GEPVlS8gjRRYAaYApgTXtn7Wao\neoDE3qhlqgK736hL3M24SdcqiwKBgQDPkOi1I1kqZMszFbI+WqYimSPaeVdpCO4q\n8iNPNLytjRIikPGWQf1WRjCDCTCxNSEkKZLrfX3ycAUi2qfjGzXWLoqLMotGfogI\nXa87v8xl0aEEqEkRu7QVmRnCCPURImbfVCdEkYWTEJSm9+nK72OjC+ITY5P5wbaM\n3/QRuewIjwKBgQClK+RYVwZLg8+pX80Qrsp27rvxFIkuM1KMJL1fpqItXsOdxl4/\ni8n5ZaPxBOOtolgc4wr6/QExQai3yDE17H53sHyamGEevzEv5N+z44pl9RkdM87M\nzLrzGq2pABB5LBfcQRzaEq6wnrQFazxTMFijjlkV+sNQI3YzoUW6njbhRwKBgDZR\nF3R/YZAEfGBL5y8GDb+0D3vWkRc9bQX0A2VwyYcpCXveLjpB3oe7Kmq/9uwImTmb\nX4Uce977jXyHd7OopTf9SegPO/8gkXyO95JNKLHkX5yWZTisw/166RCrw2XOeNks\nbnI1Gp1Xk272JUojxxEdxPWJ82lCVgEbggU5gBjlAoGBALTbvq8PaoiZnhbxLSfZ\nVxqCqW5FfWQG9lXz2DPyFrMknn48Fss9YbmvZAX0WQmS/GWoch2rn8qLvsw3/Djs\nKLco6pV4I8kS4GoVUjk2FMOF6MOHHdXZIwfxRovk3sOe+tpk/BJB77lAN/4I421e\noWxwxLF7bVkoQ/GMKKiNqlBj\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-rqaf6-294jd81dut4sp7-junuf@sunlit-amulet-349812.iam.gserviceaccount.com",
+  "client_id": "107214258307461573537",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-rqaf6-294jd81dut4sp7-junuf%40sunlit-amulet-349812.iam.gserviceaccount.com"
+}
